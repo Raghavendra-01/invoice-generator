@@ -1,0 +1,11 @@
+# Private data
+config.json
+
+# Logos (may identify your business)
+logo.png
+logo2.png
+
+# Generated invoices contain buyer details
+*.pdf
+
+__pycache__/

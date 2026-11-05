@@ -1,0 +1,18 @@
+{
+  "company_name": "YOUR COMPANY NAME",
+  "gstin": "00XXXXX0000X0XX",
+  "address": "Door No, Street, Area, City - PIN",
+  "tagline": "Manufacturers & Suppliers : YOUR PRODUCTS",
+  "phone": "00000 00000, 00000 00000",
+  "state": "Your State",
+  "state_code": "00",
+  "hsn_code": "00000000",
+  "jurisdiction": "YourCity",
+  "bank": {
+    "account_name": "YOUR COMPANY NAME",
+    "bank_name": "YOUR BANK NAME",
+    "account_no": "000000000000000",
+    "branch": "BRANCH, CITY",
+    "ifsc": "XXXX0000000"
+  }
+}
